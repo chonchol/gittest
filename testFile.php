@@ -1,5 +1,5 @@
 <?php
-    echo "Hello World!!";
-    echo "We are learning GIT!!";
-    echo "We are learning GIT 2!!";
+    echo "Hello World!!" ."<br>";
+    echo "We are learning GIT!!" ."<br>";
+    echo "We are learning GIT 2!!" ."<br>";
 ?>
